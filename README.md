@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divyansh</h1>
-<h3 align="center">I'm a passionate Android Developer, and a Competitive Programmer.</h3>
+<h3 align="center">I'm a passionate Developer, and a Competitive Programmer.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter** & **DSA**
+- 🌱 I’m currently learning **Python Development** & **DSA**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -21,6 +21,7 @@
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 </p>
 
 <br/>
