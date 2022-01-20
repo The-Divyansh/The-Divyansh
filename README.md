@@ -22,6 +22,11 @@
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 </p>
 
 <br/>
